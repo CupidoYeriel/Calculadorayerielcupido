@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>CalculadoraYerielHernandez_23AM</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="e1eee9d1ddd9147ff99d20a656ca385f.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="e1eee9d1ddd9147ff99d20a656ca385f.jpg" />
+  </ItemGroup>
+
+</Project>
